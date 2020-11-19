@@ -1,6 +1,6 @@
 {
-	"name": "unzip-stream",
-	"version": "0.1.11",
+	"name": "unzip2",
+	"version": "0.1.12",
 	"description": "Unzip cross-platform streaming API compatible with fstream and fs.ReadStream",
 	"author": "Evan Oxfeld <eoxfeld@gmail.com>",
 	"maintainers": [
